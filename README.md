@@ -47,4 +47,4 @@ Para diseñar graficos
 Metrica: Sum(Viajes)
 Dimension: periodo
 
-<p align="left"><img width="100%" src="./images/gcp-sdk.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_0.png"></p>
