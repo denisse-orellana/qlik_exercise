@@ -29,9 +29,17 @@ Add a new field with the age.
 ### 3. Create a new analysis from scratch
 
 <p align="left"><img width="100%" src="./images/qlik_4.png"></p>
+
+Trips ID by bicycle:
 <p align="left"><img width="100%" src="./images/qlik_5.png"></p>
+
+Trips ID by period:
 <p align="left"><img width="100%" src="./images/qlik_6.png"></p>
+
+Trips ID by age:
 <p align="left"><img width="100%" src="./images/qlik_7.png"></p>
+
+Trips ID by gender:
 <p align="left"><img width="100%" src="./images/qlik_8.png"></p>
 
 ### 3. Advanced Tools
