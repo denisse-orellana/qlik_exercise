@@ -1,50 +1,32 @@
-# NY's Citibike
+# Case Study of CitiBikes in New York 
 
-Caso de analisis de las CitiBikes en New York
+From [Taller en vivo de iniciación: Analizamos datos de Bike Sharing](https://www.youtube.com/watch?v=E7szrM2ndHY).
 
-Preguntas de negocio:
-1. Donde viajan los ciclistas de city
-2. cuando viajan
-3. hasta donde llegan
-4. cuales estaciones son las mas populares
-5. que dias de la semana se realizan mas viajes
+## Background
 
-Que hace analista de datos
-- Responder problematicas de situaciones de negocio que facilite la toma de decisiones.
-- concepto de aprender a leer datos, autonomas para aprender explorar y contar historias.
+This project works with data from [CitiBikes](https://citibikenyc.com/system-data).
 
-Habilidades de un analista de datos 
-Negocio
-Ciencias de la computacion
--Programación tradicional
--Ciencia de datos
--Machine Learning
-Matematica estadistica
+## Data Visualization with Qlik
 
-Analisis
-- Descritivo - analista
-- Diagnostico - analista
-- Predictivo - data science
-- Prescriptive - data science
+### To make graphics we need:
+Metrics: Sum(Viajes)
+Dimension: period
 
-De datos a generacion de valor 
-- Data
-- Clean database
-- analyzed
-- presented visually
-- explained in a story
+### 1. Replace gender names 
 
-Tecnologias en analytics y Business Intelligence
--Power BI
--Tableau
--Qlik
-
-Qlik
--cargar data
--data manager
-
-Para diseñar graficos
-Metrica: Sum(Viajes)
-Dimension: periodo
+Replace gender names with the information from the official site.
 
 <p align="left"><img width="100%" src="./images/qlik_0.png"></p>
+
+<p align="left"><img width="100%" src="./images/qlik_1.png"></p>
+
+### 2. 
+<p align="left"><img width="100%" src="./images/qlik_2.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_3.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_4.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_5.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_6.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_7.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_8.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_9.png"></p>
+<p align="left"><img width="100%" src="./images/qlik_10.png"></p>
