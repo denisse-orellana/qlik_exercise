@@ -1,7 +1,7 @@
 # Case Study of CitiBikes in New York 
 
-From [Taller en vivo de iniciación: Analizamos datos de Bike Sharing](https://www.youtube.com/watch?v=E7szrM2ndHY).
-Thanks to [Jupi Digital](https://www.jupidigital.com/)
+* From [Taller en vivo de iniciación: Analizamos datos de Bike Sharing](https://www.youtube.com/watch?v=E7szrM2ndHY).
+* Thanks to [Jupi Digital](https://www.jupidigital.com/)
 
 ## Background
 
